@@ -1,0 +1,16 @@
+{
+  "name": "box-office-server",
+  "version": "1.0.0",
+  "description": "Congratulations on being selected to progress to the next stage of the interview process and to complete our tech test. The purpose of this test is to assess the quality of the code that you write, your approach to problem solving, and your ability to reason about the approaches and practices you have implemented.",
+  "main": "format-data.js",
+  "scripts": {
+    "dev": "node --watch listen.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

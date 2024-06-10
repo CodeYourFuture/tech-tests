@@ -1,0 +1,17 @@
+{
+  "name": "box-office",
+  "version": "1.0.0",
+  "description": "Congratulations on being selected to progress to the next stage of the interview process and to complete our tech test. The purpose of this test is to assess the quality of the code that you write, your approach to problem-solving, and your ability to reason about the approaches and practices you have implemented.",
+  "main": "index.js",
+  "scripts": {
+    "dev:client": "PORT=3000 npm --workspace client run dev",
+    "dev:server": "PORT=9090 npm --workspace server run dev"
+  },
+  "keywords": [],
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC"
+}
