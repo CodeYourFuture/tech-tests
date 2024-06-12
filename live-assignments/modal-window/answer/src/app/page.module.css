@@ -1,0 +1,25 @@
+.container {
+  padding: 20px;
+  font-size: 18px;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 90vh;
+}
+
+.flex {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  align-items: stretch;
+}
+
+.aside {
+  width: 28%;
+  background-color: #ff6f3c;
+}
+
+.main {
+  width: 68%;
+  background-color: #ff9a3c;
+}
