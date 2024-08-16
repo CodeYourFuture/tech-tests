@@ -34,9 +34,28 @@ Whan assessing a candidate's attempt at one of these tests, be sure to assess an
 
 ## Can't Candidates Cheat if there are Model Answers?
 
-It's a fair question.  This is a public repository and in theory candidates could view all the model answers to all the questions and learn them in advance of the interview.
+It's a fair question.  This is a public repository and in theory candidates could view all the model answers to all the live-assignment questions and learn them in advance of the interview.
 
-However, by learning all the answers to all the questions, candidates actually learn a lot about how to engineer software, so by "cheating" they become better developers.  As such, a better performance in the interview relative to someone who hasn't done all the practice questions is justified.  It's also true that, since we're not just looking at the implemented solution, the candidates will still need to explain how and why they've arrived at the particular solution, so would quickly get found out if they've just learned the answer by heart and didn't understand what they're typing.
+However, by learning all the answers to all the questions, candidates actually learn a lot about how to engineer software, so by "cheating" they become better developers.  As such, a better performance in the interview relative to someone who hasn't done all the practice questions is justified.  It's also true that, since we're not just looking at the implemented solution, the candidates will still need to explain how and why they've arrived at the particular solution, so would quickly get found out if they'd just learned the answer by heart and didn't understand what they were typing.
 
 The CYF tech leadership have therefore decided that being open about the questions and answers is a good thing and will lead to candidates being better prepared for real interviews.
+
+
+## Recommended Interview Formats
+
+An ambition of CYF is to give each candidate a good all-round preparation for a prospective job interview.  However, we also appreciate that the volunteers doing mock interviews have a limited amount of free time, so multiple formats will be needed to suit different people.
+
+### Option 1: Two-Stage Offline/Online Interview
+
+This is a good option for volunteers who need to be limited to a 1-hour time slot and also will also be easier for candidates who are less confident under pressure.
+
+1. Assign a Homework Assignment from this repository to the candidate and ask for a solution to be developed.
+1. Book a 1-hour one-to-one slot to discuss the candidate's solution.  This should be broken down as follows:
+    - 10 minutes for discussing the submitted solution.  Get the candidate to explain design decisions for the code and the tests
+    - 5 minutes to ask some more critical, challenging questions about the solution
+    - 30 minutes for adapting the solution to a change in requirements.  Make up a change that will necessitate the code to be adapted, and ask the candidate to implement changes to make the solution conform to the new requirements.  Offer guidance if needed, but if they're really struggling and taking the full time up then don't go beyond the 30 minutes.
+    - 10 minutes to answer a couple of general software engineering theory questions
+    - 5 minutes for the candidate to ask questions
+1. Collate feedback offline and return to the candidate.  This could be either via a follow up call or another format if convenient.
+
 
