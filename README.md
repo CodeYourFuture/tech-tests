@@ -73,5 +73,13 @@ This requires more time than the above option and is more intense, but has the a
 
 ## How to Assess and Provide Feedback
 
-As outlined previously, the CYF mock interview process is designed to assess a candidate's all-round ability and feed this back in a manner that gives candidates **clear points on what needs to improve and why** and **confidence to keep doing what went well**.
+As outlined previously, the CYF mock interview process is designed to assess a candidate's all-round ability and feed this back in a manner that gives candidates **clarity about what needs to improve and why** as well as **confidence to keep doing the things they're doing well**.
+
+Here are some general objectives that interviewers should seek to achieve to get it done right:
+
+* Take notes throughout the interview - this enables you to provide good feedback about specific, relatable things.
+* Ensure to highlight what went well rather than just what needs to be improved upon.
+* Be open and honest - this is a learning experience for the candidates, so there's unlikely to be any benefit from holding anything back.
+
+The format of the feedback can be whatever is most convenient, but generally conversational feedback has less chance of being misunderstood than written feedback, which can sometimes be taken in the wrong way.
 
