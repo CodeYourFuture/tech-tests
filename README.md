@@ -75,7 +75,7 @@ This requires more time than the above option and is more intense, but has the a
 
 As outlined previously, the CYF mock interview process is designed to assess a candidate's all-round ability and feed this back in a manner that gives candidates **clarity about what needs to improve and why** as well as **confidence to keep doing the things they're doing well**.
 
-Here are some general objectives that interviewers should seek to achieve to get it done right:
+Here are some general pointers that interviewers should bear in mind during the mock interview process:
 
 * Take notes throughout the interview - this enables you to provide good feedback about specific, relatable things.
 * Ensure to highlight what went well rather than just what needs to be improved upon.
