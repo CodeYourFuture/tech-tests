@@ -15,7 +15,7 @@ Part of this will involve a well-conducted technical challenge in order to asses
 
 A mistake often made is just focussing on the last point, but employers of good software engineers will look at all of the above.
 
-Whan assessing a candidate's attempt at one of these tests, be sure to assess and give feedback on all of the above.  There will be other questions and exercises beyond these tech tests too.  **The aim of this is to ensure all technical tests are conducted consistently during mock interviews.**
+When assessing a candidate's attempt at one of these tests, be sure to assess and give feedback on all of the above. There will be other questions and exercises beyond these tech tests too. **The aim of this is to ensure all technical tests are conducted consistently during mock interviews.**
 
 
 ## How to use these Tests
