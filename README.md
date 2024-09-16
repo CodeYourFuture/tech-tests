@@ -1,8 +1,8 @@
-# Tech Tests
+# Tech tests
 
 This repository works as a question bank that volunteers can use for conducting mock interviews.
 
-## Using these Tech Tests in a Mock Interview
+## Using these tech tests in a mock interview
 
 For mock interviews to be effective, you have to expose the candidates to as many potential assessment methods as possible, so that they are well prepared for the real thing.
 
@@ -17,7 +17,7 @@ A mistake often made is just focussing on the last point, but employers of good 
 
 When assessing a candidate's attempt at one of these tests, be sure to assess and give feedback on all of the above. There will be other questions and exercises beyond these tech tests too. **The aim of this is to ensure all technical tests are conducted consistently during mock interviews.**
 
-## How to use these Tests
+## How to use these tests
 
 1. Pick one of the top-level folders for the category that best describes your question type:
     - data-structures-and-algorithms - Usually language agnostic. Focus more on correct use of logic, algorithms and data structures
@@ -30,7 +30,7 @@ When assessing a candidate's attempt at one of these tests, be sure to assess an
     - The evaluation criteria
 5. Inside your question folder, alongside the `exercise` folder, there is an `answer` folder containing a model answer for reference. This is unlikely to be the only correct or valid implementation, but it should give a good idea to the interviewer of what to look for in a good solution.
 
-## Addressing Concerns about Candidates Cheating by using the Model Answers
+## Addressing concerns about candidates cheating by using the model answers
 
 The question as to whether candidates can cheat if model answers are published is a fair one. This is a public repository and in theory candidates could view all the model answers to all the live-assignment questions and learn them in advance of the interview.
 
@@ -38,11 +38,11 @@ However, by learning all the answers to all the questions, candidates actually l
 
 The CYF tech leadership have therefore decided that being open about the questions and answers is a good thing and will lead to candidates being better prepared for real interviews.
 
-## Recommended Interview Formats
+## Recommended interview formats
 
 An ambition of CYF is to give each candidate a good all-round preparation for a prospective job interview. However, we also appreciate that the volunteers doing mock interviews have a limited amount of free time, so multiple formats will be needed to suit different people.
 
-### Option 1: Two-Stage Offline/Online Interview
+### Option 1: two-stage offline/online interview
 
 This is a good option for volunteers who need to be limited to a 1-hour time slot and also will also be easier for candidates who are less confident under pressure.
 
@@ -55,7 +55,7 @@ This is a good option for volunteers who need to be limited to a 1-hour time slo
     - 5 minutes for the candidate to ask questions
 3. Collate feedback offline and return to the candidate. This could be either via a follow up call or another format if convenient.
 
-### Option 2: Live Coding Interview
+### Option 2: live coding interview
 
 This requires more time than the above option and is more intense, but has the advantage of being a more interactive approach and prepares candidates well for more collaborative interviews.
 
@@ -66,7 +66,7 @@ This requires more time than the above option and is more intense, but has the a
     - 5 minutes for the candidate to ask questions
 4. Feedback can be given at the end, immediately after the interview, or collated offline and fed back in whatever format is deemed most appropriate.
 
-## How to Assess and Provide Feedback
+## How to assess and provide feedback
 
 As outlined previously, the CYF mock interview process is designed to assess a candidate's all-round ability and feed this back in a manner that gives candidates **clarity about what needs to improve and why** as well as **confidence to keep doing the things they're doing well**.
 
@@ -77,4 +77,3 @@ Here are some general pointers that interviewers should bear in mind during the 
 * Be open and honest - this is a learning experience for the candidates, so there's unlikely to be any benefit from holding anything back.
 
 The format of the feedback can be whatever is most convenient, but generally conversational feedback has less chance of being misunderstood than written feedback, which can sometimes be taken in the wrong way.
-
