@@ -61,7 +61,7 @@ This is a good option for volunteers who need to be limited to a 1-hour time slo
 
 This requires more time than the above option and is more intense, but has the advantage of being a more interactive approach and prepares candidates well for more collaborative interviews.
 
-1. Select a Live Assignment and explain it to the candidate.  Observe as he/she implements a solution, offering clarity about the exercise and its requirements but please don't offer programming assistance.
+1. Select a Live Assignment and explain it to the candidate. Observe as he/she implements a solution, offering clarity about the exercise and its requirements, but please don't offer programming assistance.
 1. Present a change in requirements to the candidate.  Assess how he/she responds to tweak the design and implementation of the solution.  Ask the interviewee to explain the choices made in adapting the solution to fit the new problem scope.
 1. Allow roughly a 10 to 15 minute time slot at the end of the interview for questions. Set approximately:
     - 10 minutes for the candidate to answer a couple of general software engineering theory questions
