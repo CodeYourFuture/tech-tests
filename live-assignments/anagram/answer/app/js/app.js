@@ -10,7 +10,7 @@ function App() {
 
 App.prototype.setOutput = function(text) {
 	document.querySelector("#output").innerText = text;
-}
+};
 
 App.prototype.checkForAnagrams = function() {
 	var firstWord = document.getElementById("word1").value;
@@ -24,5 +24,4 @@ App.prototype.checkForAnagrams = function() {
 			this.setOutput("These words are not anagrams of each other.");
 		}
 	}
-}
-
+};

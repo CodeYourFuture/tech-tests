@@ -15,14 +15,14 @@ The solution should also be commutative, or, in other words, the result of the c
 A working solution should correctly determine that:
 
 1. "bus" is an anagram of "sub"
-1. "silent" is an anagram of "listen"
-1. "bleat" is an anagram of "table"
-1. "table" is an anagram of "bleat"
-1. "table" is _not_ an anagram of "desk"
-1. "poke" is _not_ an anagram of "pork"
-1. "compliant" is an anagram of "complaint"
+2. "silent" is an anagram of "listen"
+3. "bleat" is an anagram of "table"
+4. "table" is an anagram of "bleat"
+5. "table" is _not_ an anagram of "desk"
+6. "poke" is _not_ an anagram of "pork"
+7. "compliant" is an anagram of "complaint"
 
-## How to Integrate the Solution
+## How to integrate the solution
 
 The file `app/js/anagram.js` contains the declaration of the function that you will need to implement.
 
