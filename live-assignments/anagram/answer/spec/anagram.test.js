@@ -26,4 +26,3 @@ test("should handle nulls and undefined values by returning false", function() {
 	expect(anagramChecker.checkAnagrams(null, "")).toBe(false);
 	expect(anagramChecker.checkAnagrams()).toBe(false);
 });
-
