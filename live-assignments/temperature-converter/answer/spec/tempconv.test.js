@@ -1,6 +1,5 @@
 const TemperatureConverter = require("../app/js/tempconv.js");
 const converter = new TemperatureConverter();
-console.log(TemperatureConverter);
 
 test("should convert Celcius to Farenheit", function() {
 	expect(converter.convert("C", "F", 100.0)).toBe(212);

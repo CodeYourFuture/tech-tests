@@ -1,6 +1,6 @@
 # Temperature Converter
 
-## Duration ⏰ 30 minutes max
+## Duration ⏰ 35 minutes max
 
 ## Description
 
@@ -8,8 +8,8 @@ Write a function that takes a source temperature unit, a destination temperature
 
 The temperatures to be supported are:
 
-* Degree Celcius (°C)
-* Degree Farenheit (°F)
+* Degrees Celsius (°C)
+* Degrees Farenheit (°F)
 * Kelvins (K)
 
 You can use whichever conversion method you want, but, if you need a guide for this exercise, you can assume the following requirements:
@@ -34,6 +34,6 @@ A working solution should correctly determine that:
 
 The file `app/js/tempconv.js` contains the declaration of the function that you will need to implement.
 
-You should place your unit tests in a directory named `spec` and the file extension should be `.test.js` to ensure that Jest can locate and run the tests correctly. Tests can then be run by executing `npm test`.  
+You should place your unit tests in a directory named `spec` and the file extension should be `.test.js` to ensure that Jest can locate and run the tests correctly. Tests can then be run by executing `npm test`.
 
 Once tests are all passing, you can run `npm start` and go to http://localhost:8081/index.html to demonstrate your solution working as part of the web application.
