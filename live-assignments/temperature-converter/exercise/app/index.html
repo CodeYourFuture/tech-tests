@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en_GB">
+<head>
+<meta charset="utf-8" />
+<title>Temperature Converter</title>
+<link rel="stylesheet" type="text/css" href="/css/global.css" />
+<script type="text/javascript" src="/js/tempconv.js"></script>
+<script type="text/javascript" src="/js/app.js"></script>
+<script type="text/javascript">
+window.addEventListener("load", App.initialise);
+</script>
+</head>
+<body>
+<div id="form">
+	<label>From: <select type="menu" id="fromTemp"><option value="C">Celcius</option><option value="F">Farenheit</option><option value="K">Kelvin</option></select></label>
+	<label>To: <select type="menu" id="toTemp"><option value="C">Celcius</option><option value="F">Farenheit</option><option value="K">Kelvin</option></select></label>
+	<label>Value: <input type="text" id="tempValue" placeholder="Enter a number" /></label>
+	<button id="submit">Convert</button>
+</div>
+<section id="output"></section>
+</body>
+</html>
