@@ -1,0 +1,24 @@
+body {
+	font-family: 'Arial', 'Tahoma', 'sans-serif';
+}
+#form {
+	width: 420px;
+	text-align: left;
+	margin-bottom: 4px;
+}
+label {
+	display: inline;
+	width: 330px;
+	margin-bottom: 2px;
+}
+input {
+	width: 4em;
+}
+#output {
+	border: 1px solid #999;
+	display: block;
+	width: 408px;
+	height: 25px;
+	padding: 4px;
+	font-size: 11pt;
+}
