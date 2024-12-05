@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en_GB">
+<head>
+<link rel="stylesheet" type="text/css" href="/css/global.css" />
+<script type="text/javascript" src="/js/century.js"></script>
+<script type="text/javascript" src="/js/app.js"></script>
+<script type="text/javascript">
+window.addEventListener("load", function() {
+	new App();
+});
+</script>
+</head>
+<body>
+<div id="form">
+	<label>Enter a date: </label>
+	<input type="text" id="dayField" placeholder="day" />
+	<select type="menu" id="monthField">
+		<option value="00">January</option>
+		<option value="01">February</option>
+		<option value="02">March</option>
+		<option value="03">April</option>
+		<option value="04">May</option>
+		<option value="05">June</option>
+		<option value="06">July</option>
+		<option value="07">August</option>
+		<option value="08">September</option>
+		<option value="09">October</option>
+		<option value="10">November</option>
+		<option value="11">December</option>
+	</select>
+	<input type="text" id="yearField" placeholder="year" />
+	<button id="submit">Find Century</button>
+</div>
+<section id="output"></section>
+</body>
+</html>

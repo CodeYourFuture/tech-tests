@@ -20,7 +20,7 @@ class CenturyFinder {
 	}
 
 	findCenturyOf(date) {
-		return undefined; // TODO: Implement this method
+		return this.formatOrdinal(Math.floor(date.getFullYear() / 100) + 1);
 	}
 
 }
