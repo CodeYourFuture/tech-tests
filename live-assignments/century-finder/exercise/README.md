@@ -15,8 +15,9 @@ A working solution should correctly determine that:
 1. 4th July 1776 was in the 18th century.
 2. 15th June 1215 was in the 13th century.
 3. 8th May 1945 was in the 20th century.
-4. 1st January 2000 was in the 21st century.
-5. 1st August 799 was in the 8th century.
+4. 31st December 2000 was in the 20th century (yes, [twentieth](https://www.google.co.uk/search?q=When+did+the+21st+century+begin%3F)).
+5. 1st January 2001 was in the 21st century.
+6. 1st August 799 was in the 8th century.
 
 ## How to integrate the solution
 
